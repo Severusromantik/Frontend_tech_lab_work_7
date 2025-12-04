@@ -2,7 +2,7 @@
   "name": "lab7-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Severusromantik.github.io/lab7-react",
+  "homepage": "https://Severusromantik.github.io/Frontend_tech_lab_work_7/lab7-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
