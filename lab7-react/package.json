@@ -1,5 +1,4 @@
 {
-  "homepage": "https://severusromantik.github.io/Frontend_tech_lab_work_7/docs",
   "name": "lab7-react",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --branch main --dest docs --repo https://github.com/Severusromantik/Frontend_tech_lab_work_7.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
