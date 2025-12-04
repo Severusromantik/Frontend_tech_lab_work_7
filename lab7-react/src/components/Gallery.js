@@ -2,7 +2,7 @@ import React from 'react';
 import GoodsCard from './GoodsCard';
 
 const goodsData = [
-    { id: 1, name: "Барбі", price: 120, imageUrl: "/images/Barbie_2023_poster.jpg" },
+    { id: 1, name: "Барбі", price: 120, imageUrl: require('../../public/images/Barbie_2023_poster.jpg') },
     { id: 2, name: "Початок", price: 120, imageUrl: "/images/Inception_(2010)_theatrical_poster.jpg" },
     { id: 3, name: "Інтерстеллар", price: 600, imageUrl: "/images/Interstellar_film_poster.jpg" },
     { id: 4, name: "Наполеон", price: 500, imageUrl: "/images/Napoleon_Film_poster.jpg" },
